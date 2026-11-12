@@ -1,0 +1,42 @@
+{
+  "todos": [
+    {
+      "id": "td_6f91d4d8",
+      "content": "中英摘要草稿",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_2d7e3b85",
+      "content": "外文翻译草稿（Bahr 2025，约 4000 字+原文）",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_2decc6e3",
+      "content": "E4 重测；发现并修复后台重建抢 CPU（TTL 3600s）",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_41cda22c",
+      "content": "用户：再重启后端；空闲状态下重测 E4",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "td_54b1f8ac",
+      "content": "用户：盲评 E1 1–50、E3 1–10；界面层测试与脱敏截图",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "td_b9f69f6f",
+      "content": "参考文献统一编号与核对；按学校模板排版",
+      "status": "pending",
+      "priority": "medium"
+    }
+  ],
+  "updated_at": 1794377213.4866006,
+  "version": 1
+}

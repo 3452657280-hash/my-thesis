@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "id": "td_26f2ef9d",
+      "content": "查 TMC 区产线定义、LL 岗生成与空缺统计",
+      "status": "in_progress",
+      "priority": "medium"
+    },
+    {
+      "id": "td_a81f77d9",
+      "content": "TMC 产线无可上岗 LL 时不生成 LL 岗、不计空缺",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "td_8d4bfeeb",
+      "content": "查张雪宁 11-09 被排到 T21/T23 LL 的原因",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "td_68f79a35",
+      "content": "修复跨区 LL 资格判定",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "td_2f840213",
+      "content": "测试 + 页面验证",
+      "status": "pending",
+      "priority": "medium"
+    }
+  ],
+  "updated_at": 1794448910.1724448,
+  "version": 1
+}

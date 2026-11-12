@@ -1,0 +1,22 @@
+# 依赖与构建产物（可再生成，不进仓库）
+node_modules/
+.venv/
+venv/
+target/
+dist/
+.vite/
+__pycache__/
+*.pyc
+
+# 本项目的中间产物：Word 分页 EMF（79 MB，可由 _build 脚本重新生成）
+_build/_pages/
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+__MACOSX/
+
+# 系统垃圾
+Thumbs.db
+desktop.ini

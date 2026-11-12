@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "id": "td_3144adab",
+      "content": "压缩PPT讲稿备注到约10分钟（改gen_ppt.py并重新生成，核对页面内容未变）",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_5732229d",
+      "content": "答辩指南时间表与新讲稿时长对齐",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_e0dd2c5d",
+      "content": "给已过时的生成脚本加保护，防止覆盖交付文件",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_d6d1d74e",
+      "content": "更新项目skill文档（新题目/新章节/18页PPT/过时脚本/Internal坑）并同步副本",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_44fc98c9",
+      "content": "清理临时文件",
+      "status": "completed",
+      "priority": "medium"
+    }
+  ],
+  "updated_at": 1794452528.317301,
+  "version": 1
+}

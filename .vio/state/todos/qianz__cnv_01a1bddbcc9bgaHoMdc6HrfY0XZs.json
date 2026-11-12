@@ -1,0 +1,60 @@
+{
+  "todos": [
+    {
+      "id": "td_10f0fb5c",
+      "content": "补封面信息并重新生成开题报告",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_d326862e",
+      "content": "B2 精排接入统一检索（可开关）",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_70004043",
+      "content": "B3 设置页数据源开关 + 屏蔽答案开关",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_6ad303dd",
+      "content": "B4 流程图标注生成来源",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_1f029d71",
+      "content": "A1-A2 你启动四个服务后，实机验证有网/无网、各开关",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "td_cd440e35",
+      "content": "B1 数据脱敏脚本 + 映射表（仅本地）",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "td_083fd5ec",
+      "content": "E1 六元组抽检表（200 条，你来判定）",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "td_a84f80c8",
+      "content": "E2a/E2b/E3/E4 实验脚本与跑数",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "td_6e4546f3",
+      "content": "论文第 2-4 章初稿（12 月）",
+      "status": "pending",
+      "priority": "medium"
+    }
+  ],
+  "updated_at": 1794205493.2786598,
+  "version": 1
+}

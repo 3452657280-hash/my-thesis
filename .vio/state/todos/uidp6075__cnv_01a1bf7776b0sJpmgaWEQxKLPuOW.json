@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": "td_6d0ccb9b",
+      "content": "图谱证据按链路给",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_7f2cfb7f",
+      "content": "决策树提示词 v2（中英）",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_859935ac",
+      "content": "单元测试（21 个通过）",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_549fdc71",
+      "content": "开发集对比（用新 key 重跑）",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_0bb26ec0",
+      "content": "锁定 B、记录到规划和接续手册、提交 5bee167",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_06dfb5b0",
+      "content": "用户：重启后端加载新提示词；考虑把新 key 写进自己的 .env",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "td_4c652572",
+      "content": "E1：等用户填抽检表",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "td_54651cbd",
+      "content": "E3 消融脚本（排除开发集，支持 EVAL_LLM_KEY）",
+      "status": "pending",
+      "priority": "medium"
+    }
+  ],
+  "updated_at": 1794282894.1315393,
+  "version": 1
+}

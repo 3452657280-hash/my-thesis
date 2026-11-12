@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "id": "td_3fcb37b0",
+      "content": "逐页检查毕业论文排版（46页渲染图）并修复问题",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_93f4607b",
+      "content": "检查并处理页脚 Internal 标签",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "td_5308f6ee",
+      "content": "答辩PPT章节名/目录/内容按新章节结构修改",
+      "status": "in_progress",
+      "priority": "medium"
+    },
+    {
+      "id": "td_635adee6",
+      "content": "PPT逐页渲染检查",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "td_1d0e37ca",
+      "content": "清理临时文件，汇报结果",
+      "status": "pending",
+      "priority": "medium"
+    }
+  ],
+  "updated_at": 1794448666.5924594,
+  "version": 1
+}

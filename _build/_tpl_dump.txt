@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    from docx import Document;d=Document(r'_build/template_shuxie.docx');[print(i,p.style.name,'|',p.text[:70]) for i,p in enumerate(d.paragraphs) if p.text.strip()];print('sections',len(d.sections));s=d.sections[-1];print(s.top_margin.cm,s.left_margin.cm,s.right_margin.cm,s.bottom_margin.cm, [x.text for x in s.header.paragraphs])
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'docx'
